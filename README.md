@@ -9,3 +9,5 @@
 ## Mõdulo 04 - Componentes e Props
 
 ## Módulo 05 - Estados e Ciclo de vida
+
+## Módulo 06 - Pensamento componentizado
