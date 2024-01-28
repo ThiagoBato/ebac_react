@@ -11,3 +11,5 @@
 ## Módulo 05 - Estados e Ciclo de vida
 
 ## Módulo 06 - Pensamento componentizado
+
+## Módulo 07 - Formulários e Componentes Controlados
