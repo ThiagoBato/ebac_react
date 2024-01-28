@@ -13,3 +13,5 @@
 ## Módulo 06 - Pensamento componentizado
 
 ## Módulo 07 - Formulários e Componentes Controlados
+
+## Módulo 08 - Listas e Composição
